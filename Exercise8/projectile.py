@@ -1,6 +1,7 @@
 import math
 # import math module
 
+# Line 4 -5 define variables already given
 y0 = 1
 x= 0.5
 g = 9.81
