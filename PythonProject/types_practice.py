@@ -27,5 +27,3 @@ print(type(names_dictionary))
 
 print(names_dictionary['first'])
 print(names_dictionary['last'])
-
-
